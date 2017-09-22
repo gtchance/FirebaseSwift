@@ -77,10 +77,10 @@ firebase.delete("user/john_id") {
 ##### PATCH
 ```swift
 // sync
-let result = firebase.patch(path: "user/john_id", value: ["middleInitial: "T"])
+let result = firebase.patch(path: "user/john_id", value: ["middleInitial": "T"])
 
 // async
-firebase.patch(path: "user/john_id", value: ["middleInitial: "T"]) { result in
+firebase.patch(path: "user/john_id", value: ["middleInitial": "T"]) { result in
   // ...
 }
 ```
