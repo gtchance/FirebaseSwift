@@ -3,20 +3,11 @@
     "pins": [
       {
         "package": "Just",
-        "repositoryURL": "https://github.com/gtchance/Just.git",
+        "repositoryURL": "https://github.com/tylermilner/Just.git",
         "state": {
           "branch": null,
-          "revision": "d501eeb32035efd61699acde9401e134f67411e8",
-          "version": "0.6.0"
-        }
-      },
-      {
-        "package": "SwiftyJSON",
-        "repositoryURL": "https://github.com/IBM-Swift/SwiftyJSON.git",
-        "state": {
-          "branch": null,
-          "revision": "1190845cf7d25a5c8ea7653fe03dcdd39a082056",
-          "version": "16.0.2"
+          "revision": "9c13bd2cc7c4cc09719a7246847a9459cb45aaf2",
+          "version": "0.6.1"
         }
       }
     ]
